@@ -113,6 +113,11 @@
         android:key="quicksettings_tiles_category"
         android:title="@string/quicksettings_tiles_category">
 
+    <Preference
+        android:key="quicksettings"
+        android:fragment="org.candyroms.candycane.fragments.QuickSettingsLayout"
+        android:title="@string/quicksettings_category" />
+
     <ListPreference
         android:key="qs_tile_animation_style"
         android:title="@string/qs_tile_animation_style_title"
