@@ -34,7 +34,7 @@
     <!-- Tabs -->
     <string name="system_category">System</string>
     <string name="lockscreen_category">Lockscreen</string>
-    <string name="statusbar_category">Status Bar</string>
+    <string name="statusbar_category">Statusbar</string>
     <string name="navigation_category">Navigation</string>
     <string name="misc_category">Misc</string>
     <string name="weather_cat_lockscreen">Lockscreen</string>
@@ -164,8 +164,8 @@
 
     <!-- Quick Pulldown-->
     <string name="quick_pulldown_title">Quick pulldown</string>
-    <string name="quick_pulldown_summary">%1$s edge of the status bar pulls down Quick Settings</string>
-    <string name="quick_pulldown_summary_always">Always show Quick Settings on status bar pulldown</string>
+    <string name="quick_pulldown_summary">%1$s edge of the statusbar pulls down Quick Settings</string>
+    <string name="quick_pulldown_summary_always">Always show Quick Settings on statusbar pulldown</string>
     <string name="quick_pulldown_off">Off</string>
     <string name="quick_pulldown_left">Left</string>
     <string name="quick_pulldown_right">Right</string>
@@ -173,7 +173,7 @@
 
     <!-- Network traffic -->
     <string name="network_traffic_title">Network traffic</string>
-    <string name="show_network_traffic_state">Status bar traffic monitor</string>
+    <string name="show_network_traffic_state">Statusbar traffic monitor</string>
     <string name="show_network_traffic_unit">Display unit</string>
     <string name="show_network_traffic_frequency">Update interval</string>
     <string name="show_network_traffic_disable">Disabled</string>
@@ -253,11 +253,11 @@
     <string name="color_default">Default</string>
 
     <!-- Lockscreen Shortcuts -->
-    <string name="lockscreen_targets_title">Bottom L/R Shortcuts</string>
+    <string name="lockscreen_targets_title">Bottom L/R shortcuts</string>
 
-    <!-- Weather in status bar -->
+    <!-- Weather in statusbar -->
     <string name="status_bar_show_weather_title">Show weather</string>
-    <string name="status_bar_show_weather_summary">Show the weather in the status bar header</string>
+    <string name="status_bar_show_weather_summary">Show the weather in the statusbar header</string>
     <string name="weather_cat_statusbar_title">Statusbar</string>
 
     <!-- Lockscreen weather -->
@@ -525,7 +525,7 @@
 
     <!-- Brightness control -->
     <string name="status_bar_toggle_brightness">Brightness control</string>
-    <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across the status bar</string>
+    <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across the statusbar</string>
 
     <!-- Heads up -->
     <string name="headsup_section_header">Heads up notifications</string>
@@ -582,7 +582,7 @@
     <string name="pa_pie_gravity_left">Left</string>
     <string name="pa_pie_gap_title">Item gap</string>
     <string name="pa_pie_gap_summary">Adjust the gap that separates the Pie elements</string>
-    <string name="pa_pie_angle_title">Pie Angle</string>
+    <string name="pa_pie_angle_title">Pie angle</string>
     <string name="pa_pie_angle_summary">Adjust the angle of pie\'s egdes from the attachment</string>
     <string name="pa_pie_angle_none">None (old)</string>
     <string name="pa_pie_angle_small">Small</string>
@@ -626,7 +626,7 @@
     <!-- double tap statusbar to sleep -->
     <string name="tap_to_sleep_category">Tap to sleep</string>
     <string name="double_tap_to_sleep_title">Double-tap to sleep</string>
-    <string name="double_tap_to_sleep_summary">Double tap on the status bar to put the device to sleep</string>
+    <string name="double_tap_to_sleep_summary">Double tap on the statusbar to put the device to sleep</string>
 
     <!-- Lockscreen double tap to sleep -->
     <string name="tap_to_sleep_lockscreen_category">Tap to sleep on lockscreen</string>
@@ -685,9 +685,9 @@
     <string name="weather_icon_pack_title">Condition icon pack</string>
 
     <!-- StatusBar weather settings -->
-    <string name="statusbar_weather_title">Status bar weather</string>
+    <string name="statusbar_weather_title">Statusbar weather</string>
     <string name="statusbar_weather_summary">Configure from QS settings/Weather.</string>
-    <string name="statusbar_weather_dialog_title">Status bar weather style</string>
+    <string name="statusbar_weather_dialog_title">Statusbar weather style</string>
     <string name="status_bar_weather_hidden">Hidden weather</string>
     <string name="status_bar_temperature_image_show_scale">Show temp with scale and image</string>
     <string name="status_bar_temperature_image_hide_scale">Show temp with image without scale</string>
@@ -700,19 +700,19 @@
     <string name="onthego_alpha_title">On-the-go alpha</string>
     <string name="onthego_alpha_summary">Alpha value of the on-the-go overlay</string>
 
-    <!-- Three finger swipe screenshot -->
-    <string name="three_finger_gesture">Three finger screenshot</string>
+    <!-- Three-finger swipe screenshot -->
+    <string name="three_finger_gesture">Three-finger screenshot</string>
     <string name="three_finger_gesture_summary">Swipe three fingers across the screen to screenshot</string>
 
     <!-- Recents memory bar -->
     <string name="systemui_recents_mem_display_title">Show memory bar</string>
     <string name="systemui_recents_mem_display_summary">Display RAM usage under recents view</string>
 
-    <!-- Status Bar Ticker -->
+    <!-- Statusbar Ticker -->
     <string name="ticker_screen_title">Ticker</string>
-    <string name="ticker_title">Status bar ticker</string>
+    <string name="ticker_title">Statusbar ticker</string>
     <string name="ticker_screen_summary">Customize the ticker style</string>
-    <string name="ticker_summary">Enable the old status bar ticker</string>
+    <string name="ticker_summary">Enable the old statusbar ticker</string>
     <string name="ticker_restore_defaults_title">Restore defaults</string>
     <string name="text_title">Text</string>
     <string name="icon_title">Icon</string>
